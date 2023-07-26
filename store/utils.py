@@ -16,3 +16,9 @@ CITY_LIST =  (
     ('SY', 'Sylhet'),
     ('RJ', 'Rajshahi')
 )
+
+AREA_LIST =  (
+    ('DH', 'Dhaka'),
+    ('SY', 'Sylhet'),
+    ('RJ', 'Rajshahi')
+)
